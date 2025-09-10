@@ -1,14 +1,14 @@
 ---
 creation date: Wednesday 10th May 2023  2:53:20 pm
-modification date: Wednesday 20th August 2025  1:32:15 pm
+modification date: Wednesday 10th September 2025  5:58:17 pm
 created by: Paul Miskovsky
 tags: [note, linux]
 aliases: []
 publish: true
-title: DD Disk Recovery
+title: DD Disk Recovery 2
 ---
 
-# DD Disk Recovery
+# DD Disk Recovery 2
 
 ### Installation
 

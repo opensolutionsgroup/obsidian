@@ -8,7 +8,7 @@ publish: true
 title: DD Disk Recovery 2
 ---
 
-# DD Disk Recovery 2
+# DD Disk Recovery
 
 ### Installation
 

@@ -1,10 +1,6 @@
 ---
 creation date: Wednesday 10th May 2023  2:53:20 pm
-<<<<<<< HEAD
 modification date: Thursday 11th September 2025  7:39:59 am
-=======
-modification date: Thursday 11th September 2025  7:17:39 am
->>>>>>> 5098ee6 (vault backup: 2025-09-11 07:41:22)
 created by: Paul Miskovsky
 tags: [note, linux]
 aliases: []

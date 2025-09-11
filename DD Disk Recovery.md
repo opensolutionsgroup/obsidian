@@ -5,7 +5,7 @@ created by: Paul Miskovsky
 tags: [note, linux]
 aliases: []
 publish: true
-title: DD Disk Recovery 2
+title: DD Disk Recovery
 ---
 
 # DD Disk Recovery

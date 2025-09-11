@@ -15,6 +15,6 @@ This is a test
 ---
 tags: #note
 links: [[Note Template]]
-licence: [[CC BY-SA 4.0]]
-code: [[GNU-GPL-v3.0]]
+licence: [[Licences/CC BY-SA 4.0]]
+code: [[Licences/GNU-GPL-v3.0]]
 sources: 

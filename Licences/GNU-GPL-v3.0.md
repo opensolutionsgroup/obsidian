@@ -1,9 +1,9 @@
 ---
 creation date: Sunday 20th July 2025  9:20:17 am
-modification date: Thursday 24th July 2025  2:44:43 pm
+modification date: Thursday 11th September 2025  7:33:16 am
 created by: Paul Miskovsky
 aliases: []
-title: GNU-GPL-v3.0
+title: _GNU-GPL-v3.0
 ---
 GNU General Public License
 ==========================

@@ -1,6 +1,6 @@
 ---
 creation date: Wednesday 10th May 2023  2:53:20 pm
-modification date: Thursday 11th September 2025  7:22:21 am
+modification date: Thursday 11th September 2025  7:39:59 am
 created by: Paul Miskovsky
 tags: [note, linux]
 aliases: []
@@ -115,6 +115,6 @@ iostat -xtcd 2
 ---
 tags: #note #linux
 links: [[Note Template]]
-licence: [[CC BY-SA 4.0]]
-code: [[GNU-GPL-v3.0]]
+licence: [[Licences/CC BY-SA 4.0]]
+code: [[Licences/GNU-GPL-v3.0]]
 sources:

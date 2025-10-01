@@ -115,6 +115,6 @@ iostat -xtcd 2
 ---
 tags: #note #linux
 links: [[Note Template]]
-licence: [[Licences/CC BY-SA 4.0]]
-code: [[Licences/GNU-GPL-v3.0]]
+licence: [[Licences/CC BY-SA 4.0|CC BY-SA 4.0]]
+code: [[Licences/GNU-GPL-v3.0|GNU-GPL-v3.0]]
 sources:

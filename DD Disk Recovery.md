@@ -9,7 +9,7 @@ title: DD Disk Recovery
 ---
 
 # DD Disk Recovery
-
+---
 ### Installation
 
 Type the following into the terminal:
